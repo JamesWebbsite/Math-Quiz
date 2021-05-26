@@ -1,0 +1,16 @@
+body{
+    background-color: forestgreen;
+}
+h1{
+    color:lawngreen;
+}
+h2{
+    color:olivedrab;
+}
+label{
+    color:olivedrab;
+}
+div{
+    background-color: springgreen;
+    border-radius: 20px;
+}
